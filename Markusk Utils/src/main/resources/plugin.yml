@@ -1,0 +1,4 @@
+name: Markusk Utils
+version: '${project.version}'
+main: me.johnnyht.markuskutils.main.main
+api-version: 1.19

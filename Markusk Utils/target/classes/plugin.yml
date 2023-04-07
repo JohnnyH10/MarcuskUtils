@@ -1,0 +1,4 @@
+name: Markusk Utils
+version: '1.0-SNAPSHOT'
+main: me.johnnyht.markuskutils.main.main
+api-version: 1.19
